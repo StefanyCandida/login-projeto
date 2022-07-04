@@ -31,7 +31,7 @@ form{
 }
 form input{
  background-color:#e8e6e6;
-    height: 3vw;
+ height: 30%;
     border: none;
     width: 80%;
 }
@@ -127,14 +127,14 @@ a{
 
     }
     form input{
-           height: 8vw;
+        height: 30%;
           
      }
      .checkbox{
          left:10vh;
      }
        .redes-sociais{
-        height: 10vh;
+        height: 8%;
       }
       .redes-sociais img{
         width: 8vw;
